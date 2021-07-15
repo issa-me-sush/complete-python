@@ -1,0 +1,2 @@
+testfile3 made directly using write function and mode
+~>this  file was made automatically by the compiler
